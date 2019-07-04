@@ -1,0 +1,5 @@
+designation.lst:job:designation
+qualification.lst:job:qualification
+skill.lst:job:skill
+experience.lst:job:experience
+opening.lst:job:opening

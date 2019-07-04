@@ -1,0 +1,17 @@
+{
+  "token_vector_width":96,
+  "pretrained_vectors":null,
+  "beam_density":0.0,
+  "hidden_width":64,
+  "deprecation_fixes":{
+    "vectors_name":null
+  },
+  "bilstm_depth":0,
+  "nr_class":73,
+  "hidden_depth":1,
+  "cnn_maxout_pieces":3,
+  "beam_width":1,
+  "maxout_pieces":2,
+  "beam_update_prob":1.0,
+  "min_action_freq":30
+}

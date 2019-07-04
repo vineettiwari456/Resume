@@ -1,0 +1,260 @@
+
+
+Position Suitability Matrix
+Required Skills/Experience   Demonstrated Knowledge/Experience
+Provide industry best practices for project management at the enterprise level.
+Direct and manage project development. Coordinate and implements project plans while partnering with various cross functional teams, Delivery Partners and vendors
+
+                             Eight (8) plus years of Project Management experience most of which was managing Technology projects and Staff. Includes vendor management, data migration planning, case management, business requirements gathering and quality management. Also provided effective development of detailed project plans
+
+Support  activities for defect management life cycle that include: prompt assignment of defects, tracking defects, maintaining accurate defect details within the defect tracking tool, escalating defects that require follow up or that pose a risk of not meeting SLA for severity criteria, creating defect defect reports for daily distribution to stakeholders
+Test status reporting; maintain accurate and timely status of test script execution; create test status reports daily distribution to stakeholders, escalate test scripts to the appropriate resource {i.e. developer or analyst) that are in risk failing resolution in accordance to the agreed scheduled delivery date.
+Performed minimal execution of test scripts for validation  of applications prior to presentation to the business for  user approved testing (UAT)
+Creates and executes project plans and revises plans appropriately to meet changing requirements and needs
+Defines project success criteria and communicates these to the project team
+Plans and schedules project timelines and milestones using appropriate tools.
+
+                             Interface with developers, testers, analysts and the LOB to identify defects.
+
+                             Assigned and tracked defects throughout the defect management process; Document defect status and maintain tester and developer comments in the designated general repository (i.e. SharePoint, ClearQuest and ClearCase)
+
+                             Provided daily defect status report to project and senior management
+
+                             Executed testing of assigned defects and created result artifacts for review by testers and developers
+
+                             Developed project scope for the integration for various platforms Included all requirement gathering, risks analysis, and development of controls to manage identified risks.
+
+                             Identify and prioritize requirements based on the business needs as required. Track and maintain Product and Project backlog queue.
+
+                             Effective time management to ensure all tasks/issued are completed efficiently and within established timelines.
+
+                             Enabled the compensation management functionalities moved from legacy (IBM Mainframes and IMS DB) to distributed platform (AIX, Java, WebSphere, UDB).
+
+                             Provided status reporting to senior management of overall project health; Identified risks and developed controls to manage those risks. Facilitated project team meeting; Provided updates, changes and any communications to complete project initiatives. Solid working experience with project management tools: Microsoft Project, Word, Excel, PowerPoint, SharePoint.
+
+Knowledge and understanding of various Project Management Methodologies; experience working on large and/or multiple project programs
+                             PMBOK background utilizing Dependency management concepts.
+                             Usage of systems/software development life cycle (SDLC) methodology
+
+                             Experience using Waterfall and/or Iterative development methodologies including Agile development
+                             Coordinate project plans for capital projects and other initiatives from an IT perspective.
+
+Ensures that project documents are current, complete, and appropriately managed and stored
+Identifies and manages project dependencies and critical path; minimizes and exposures gaps and risks
+Identifies and resolves issues and conflicts within the project team
+Proactively manages changes in project scope, identifies  potential crisis or issues and devises solutions
+
+                             Coordinated/managed all communications and project related information required by the project team; Utilize MS SharePoint as a centralized repository for all project artifacts
+
+                             Interface with Stakeholders/Business Partners and project team members to provide direction and support for all project requirements.
+
+                             Track KTM (Key Task Milestone) and help to document KPIs
+                             (Key performance indicators)
+
+                             Identify risks; provide solution or interim work around acceptable to both the primary stakeholder/business partner and Line of Business (LOB)
+
+                             Identified and track changes driven by the business needs through the change process; Tracked all issues and action items within SharePoint; Provided project team with the necessary resources to resolve all issues, risks and action items
+
+
+Technical Summary
+
+
+Operating Systems: Windows 2000 / NT / HP_UX / MVS / XP, UNIX, DOS, LINUX
+Applications:    Microsoft Office Suite 2000, MS Project, MS Enterprise Management (EPM), Visual Basic 6, Crystal,
+                           eWorkforce
+Databases:        MSP, Oracle 8i/9i, DB2, IMS, Access 2000, Crystal, TCS, SQL,
+Utilities/Tools:  HP Openview, CiscoWorks, SNMP Manager, NETVIEW, TMS, CMS, INFOPAC, IVR, Visual Enabler, Test
+                           Director, Win Runner, IBM WebSphere, Visio, Crystal Reports, eWorkforce Management, CustomView, TCS
+                           Reports, Rational RequisitePro, ClearQuest,ClearCase, Visio 6, Planview, Adobe eLearning Suite, MSP, CCW,
+                           InfoSource, Passport, SharePoint, LiveLink, Lenderlive, PRTG, Idera SQL, BizTalk, DAX-PROD6
+
+
+Education
+
+Florida A&M University, Tallahassee, FL - Management Information Systems
+Project Management Institute Training
+Crystal Reports - SEAGATE Institute
+Chipola Junior College, Marianna, FL - Management Information Systems
+Professional Summary
+
+    Proficient in PMLC, SDLC methodology and practice
+    Effective leader and management skills
+    Solid knowledge of MS Project and MS Office
+    Solid problem solving and analytic skills
+    Work well in a crisis atmosphere and fast pace environment
+    Excellent Communication skills among C-Level Management
+    Excellent organizational skills and the ability to quickly learn new Processes and Methodologies
+
+Professional Experience
+
+Fanatics Inc./Interactive Resources, Jacksonville, FL 		   		                             9/2014 - 3/2015
+SYSTEM/BUSINESS ANALYST, IT OPERATIONS SUPPORT
+    Execute network monitoring via a combination of software products (i.e. PRTG, Idera (SQL)
+    Utilize analytical skill set to determine requirements, appropriate course of action and or next steps; Determined if
+              escalation required; identify the appropriate resources, facilitate a resolution in an efficient timeline within the
+              acceptable SLA.
+    Provide Enterprise wide notifications/updates for any Severity 1 issues identified; Interface with identified/assigned
+       resources including but not limited to DBA, Developers, Network Engineers and 3rd Party Vendors.
+    Project Management interaction with developers, DBA and QA assigned to participate in Change Request from the
+       Line of Business (LOB); Facilitate project team meetings via conference call or face to face; provided agenda that
+       included list of Change Request, proposed resources and timelines
+    Maintained centralized repository of all related documentation via SharePoint and related project management software
+    Participate in the Change Management Process through providing detailed Production Release Plan that included but
+       not limited to resource requirements, release steps and schedule timelines.
+    Execute Weekly Production Releases in conjunction with DBA Team, Quality Assurance and 3rd Party application
+       vendors including but not limited to monitoring and providing Remote Desktop Connection (RDC) access.
+    Ensured Production Releases implemented successfully through validation with assigned resources; provided
+       Production Release status to LOB, participating resources and Senior Management via Enterprise wide Outlook
+       Advisory communications.
+    Assist with developing resolution documentation and building support knowledge base.
+    Developed templates utilized for incident tracking and shift summary reporting for IT Operations
+    Provide feedback on existing monitoring tools, reoccurring alerts and possible risks/issues or potential bugs that may
+       impact customer facing sites.
+    Developed and provide recommendations for process and runbook recovery improvements via testing and validating
+       step by step execution and documentation.
+Technologies:  MS Suite, SharePoint, PRTG, KACE, Idera SQL, BizTalk, DAX-PROD6
+
+Florida Blue/Capital Staffing Consultants, Jacksonville, FL 		   		                6/2013 - 10/2013
+PROJECT MANAGER/BUSINESS ANALYST, NOVITAS DISENGAGEMENT TESTING
+    Performed project management activities in support of the overall testing related to the Production Simulation/Cut-over
+              Phases for the Novitas Disengagement via project management tools (i.e. MS Project, SharePoint and Planview)
+    Conducted daily Scrum (Agile) with multiple cross functional groups including but not limited to the Testing, Data
+       Warehouse, CICS, Network Operations, Server Group and Network Security.
+    Managed the Defect Management Life Cycle; Interface with developers and testers to identify defects
+    Executed testing of assigned defects via Citrix test environment
+    Program deployment of Java applications from standalone/custom engineered environments to Tomcat and Websphere; Implemented testing for all infrastructure components - mid-range apps, middleware, DBMS, network, tools/utilities and citrix.
+    Assign and track defects through resolution process; Provide test documentation for follow up and subsequent retest.
+    Maintained current and accurate defect status via defect tracking tools.
+    Provided daily defect status report and subsequent daily meeting summary to project team and management
+    Provided recommendations for process improvement via testing process; Developed step by step visual documentation
+Technologies: MS Project, MS Suite, Power Point, SharePoint, XenDesktop, Citrix, .NET, Windows OS, CICS
+
+JPMORGAN CHASE, Jacksonville, FL 						                 6/2009 - 6/2013
+PROJECT MANAGEMENT/ANALYTICS & STRATEGY PROJECTS
+    Developed project scope for the integration for all three Chase Heritage (CHASE,WAMU,EMC) Servicing Default
+       MSP Control Reporting platforms. Included all requirement gathering, risks analysis, and development of controls
+       to manage identified risks.
+    Developed project plans, action initiatives and key deliverable by applying Waterfall and PMBOK methodologies.
+       Also utilized Agile process when business needs required daily controls to track initiatives.
+    Coordinate tasks for LOB support staff.  Responsible for providing business management and analytic leadership to
+       one or several of the department's key functional areas
+    Responsible for project coordination, research, business analysis and synthesis of information to comply with
+       internal policies/procedures as well as applicable external regulations
+    Produce and provide daily, weekly and monthly status reports to senior management.
+    Project Management interaction with developers assigned to design a Websphere application to facilitate money movement during international trade processes.
+    Monitored backlog queue to prioritize next sprints (Agile) and assign resources.
+    Responsible for project planning and scheduling, project execution and controlling, technology resources allocation,
+       Risk and Change Management, project reporting and others project management related activates via Planview
+    Provide Control Reporting to track and manage identified risks, issue management and subsequent resolution.
+    Provide solution or interim work around acceptable to both  the primary stakeholder/business partner and LOB
+    Identify and track changes required by the business needs through the Change Management process.
+    Apply operational principles and tools to facilitate Process Improvement Initiatives
+    Responsible for measuring, reporting, and analyzing performance of allocated resources; provide resource forecast
+       within the budget constraints to meet set SLA.
+    Facilitate weekly project staff meeting to ensure project scopes, timelines, and milestones continue to meet target dates
+Technologies: MS Project,Visio, MS Suite, Power Point, SharePoint, .NET, Windows OS, CICS, MSP, LenderLive, Passport, Cognos
+
+Merrill Lynch - Jacksonville, FL 							                 9/2007 - 4/2008
+PROJECT MANAGER
+    Led Project coordination and management  including tasks coordination of  Jacksonville support and development staff;
+    Interface with business analysts and offshore team members to provide guidance/support for all application support;
+       Track KTM (Key Task Milestone), document KPI's (Key performance indicators), monitored Financial Advisor
+       (FA) applications on-line transaction processing system (OLTP) and assigned resources to resolve platform issues
+    Utilize Merrill Lynch in house software (KX) as a centralized repository for all project artifacts, communications and project
+       related data, information required by the project team.
+    Managed requirements via Rational Tool Set (Requisite Pro); Ensured BAs tracked defects recorded within ClearQuest.
+    Tracked Developer's code stored within ClearCase where version control was tracked and managed.
+    Integration of Financial Advisor (FA) applications on-line transaction processing system (OLTP); Establish data
+       feeds and track access to all functions and contents of a data extracted to data warehousing
+    Allocation of resources and provided resource forecast to ensure budget constraints met set SLA
+    Track MLIST (Merrill Lynch India) off-shore resources; Drove daily expectations/deliverable and managed Sprint Backlog.
+    Utilize PowerPoint in coordination with Adobe eLearning  to provide training sessions for MLIST offshore resources.
+    Facilitate project meetings; tracked timelines; provide reporting of Key Tasks, Milestones and overall Project health.
+    Coordinate weekly management reporting and provide Business clients with required status reports.
+    Provide senior management with AD HOC reports (e.g. budget, resource forecast, and risks analysis)
+Technologies: MS Project, MS Suite, MS Power Point, MS SharePoint , MS .NET, Windows OS, CICS, Mainframe, multi-platform, MS Office, ClearQuest, ClearCase
+
+MVP SHOWCASE - Jacksonville, FL 						                  1/2007- 9/2007
+REGIONAL ACCOUNT MANAGER
+    Developed schedules, actions items and tracked timelines to ensure clients met the established dates/deadlines per
+              Scholarship guidelines; Implemented open sourced CRM solutions;
+    Identify, initiate and coordinate meet and greet with prospective college students.
+    Conduct face-to-face data gathering with client on financial needs, academic status, and overall interest
+    Identify client interests, resources, and scholastic strengths to formulate a target list of potential colleges.
+    Track responses from colleges; Provide status on all communications, requests and overall recruiting process.
+    Maintained and provided access and first level support of database repository of all colleges; requested from potential
+              interested institutions.
+       Technologies: MS Project, MS Suite, PowerPoint
+
+Fidelity National Financial (FIS) - Jacksonville, FL 					                3/2006 - 7/2006
+PROJECT MANAGER
+    Review documentation (functional, detail, technical) and develop plan/deliverables for integration/implementation projects.
+    Conduct weekly project staff meetings to ensure project scopes and timelines are met.
+    Identify/track issues, risks and action items within SharePoint; notify and provide project team with required resources to
+       resolve assigned all issues, risks and action items; Track ownership, status and resolution of project issues/action items.
+    Provide weekly status reports of Key Tasks, Milestones and overall Project health.
+    Completed infrastructure build outs - Web/Application servers (Websphere)
+    Maintain database repository (SharePoint) of all project artifacts; provide access and first level support to
+       project team on questions/issues with database and project management tools SharePoint and PlanView.
+    Implement high availability solutions for mainframe and client server environments
+    Migration of client infrastructure from a leveraged network/distributed environment to dedicated infrastructure
+    Migration and conversion of new customers to Core Banking and ASP platforms
+    Track project status/processes; allocate resources via project management tools (i.e.MS Project, SharePoint, PlanView)
+    Manage Change Control Process; Ensure Change Control Procedures followed approval review process. .
+    Conduct post project analysis/review; evaluate overall project success; document lessons learned/project closure reports.
+Technologies: MS Project,Visio,MS Suite,PowerPoint, SharePoint, .NET, Windows OS, CICS, Mainframe,multi-platform,MS Office
+
+Aspect Communications/IRS, Jacksonville, FL 					               1/2002 -10/2005
+PROJECT MANAGER/SITE COORDINATOR
+    Managed/coordinate IRS call center migrations, circuit turn up and call center integration strategies.
+    Coordinated weekly and monthly JAD sessions with business partners and technical staff.
+    Created Business requirements; Established protocol for document management; Managed documentation between
+       shared network drive and SharePoint for project resources access; Utilized ClearCase tool for defect tracking.
+    Created project plans for development projects of all Aspect related software rollout projects; Including but not limited to
+       creating Source to Target Mapping documents to ensure data delivery moved and mapped properly.
+ Integrated Aspect IVR solutions into the IRS overall contact center platform; Customized CRM solutions to meet IRS requirements through Aspect CTI; linking desktops to front/back office customer information databases.
+ Maintained documentation and managed relationship with all 3rd party vendors (i.e. circuit provider, ISP) to ensure established SLAs were met; Review subsequent billing validate accuracy; Continuous review of SLA to ensure all parties maintained agreed criteria to prevent contract void.
+Technologies: MS Project, Visio, MS Suite, SharePoint, Windows OS, CICS, Mainframe, multi-platform, MS Office, Aspect ACD, eWorkforce, IVR, Rational RequisitePro, ClearQuest, ClearCase
+
+BCBSFL - Jacksonville, FL 									 10/2000 - 10/2001
+SYSTEM ANALYST/NETWORK ADMINISTRATION
+    Provided Issue Management/Status reports to senior management regarding system outages and the cost effect to the
+       Business Partners.
+    Develop business requirements related to system availability; Identify system issues; developed guidelines for
+       scheduled system maintenance
+    Provide technical support to internal/external customer request via Change Request and/or trouble ticket tracking
+       system; Provide technical analysis and quality reviews of technical documentation to ensure compliance with SLA.
+    Developed minimum requirements for telecommuter system components and subsequent rollout
+    Reconcile BCBSFL Virtual Office system issues concerning Internet access, account activation and password
+       authenticity. Document customer issues and creates weekly and monthly reports for customer follow up to ensure SLA
+       levels were maintained; Recommend and implement changes
+Technologies: UNIX, PC, and Mainframe, multi-platform, MS Office
+
+Clariti Telecom - Jacksonville, FL 							           12/1997 - 9/2000
+NETWORK ANALYST/NOC Manager
+    Developed, established and maintained SLA criteria of 98% acceptable customer service levels.
+    Monitor call volume, ensure customer service levels met approved SLA. Developed technical support
+       Book of Knowledge for network analyst.
+    Resolved isolated issues; Continuous troubleshooting to ensure network performance of hardware and coinciding
+       application met SLA availability levels; Ensure staffing levels met business requirements within the SLA.
+    Monitor and develop all processes/procedures to ensure changes implemented.
+    Utilized PMBOK/PMM to assure network deliverables met business requirement needs for all installs and turn ups.
+    Point of Contact (POC)/Liaison to clients, 3rd Party Vendors, and business partners
+    Responsible for any circuit, hardware/software ordering required to accomplish approved initiatives and objectives.
+    Provide metrics/data analysis to Senior Management/Business Partners; Identify trends/target markets.
+    Translate business requirements; Provide recommendations to VOIP Developers for enhancements;
+     Analyze design documentation (functional, detail, and technical); execute coinciding SIT/UAT testing.
+    Provided support of  VOIP environment including routing configuration, VOIP transmissions; circuit/system testing
+       within the dedicated and multi-platform and development of first level training guide or CSRs and business partners
+Technologies: UNIX, PC, and Mainframe, multi-platform, Visio, MS Project, MS Office, HP OpenView, CiscoWorks
+
+CSX Technology - Jacksonville, FL 							            3/1986 - 8/1997
+MEDIA INFORMATION SPECIALISTS
+    Provide system resources for internal/external customers; Utilize broad-ranging operational and organizational tools to
+       assist network/telecommunications with remote access equipment.
+    Effective use of mainframe and PC applications to track and  locate time sensitive requested task
+    Monitor mainframe to ensure completion and distribution of daily production jobs and business reports.
+    Adhere to daily job stream to ensure schedule SLAs were met through use of TSO, JCL and JES2
+    Interface with end users and coordinating desktop moves to WINDOWS platform; secured necessary resources and
+       ensured operational functionality met company requirements.
+Technologies: UNIX, PC, and Mainframe, multi-platform, MS Office

@@ -1,0 +1,386 @@
+  
+Pramod Musilannagari
+317-531-1493-M
+readyforqa@gmail.com
+Immigration Status: Green Card
+
+PROFESSIONAL SUMMARY
+
+•	Broad and extensive experience of over 16 years in Software Quality Assurance and Testing Methodologies, Production Support, Compliance and Release Management. Well versed in End-to-end Software Engineering, IT PMO functions in HealthCare, Insurance, Banking, and Financial and Government domains.
+•	Proven Global IT & Quality Assurance Leader (QA) worked as QA Manager, Management Consultant, QA Architect and Project Manager. Skilled in large and cross-functional transformational projects. Strong leadership ability combined with broad technical knowledge and with strategic and tactical problem solving skills. 
+•	Over 7 years of experience in directly managing multiple projects and resources as a QA Leader.
+•	Expert in applying agile principles and improving the quality, effectiveness, and value of the product, the process, and the team.
+•	Multiple years of hands-on experience in establishment of successful offshore delivery TCOEs for enhanced QA Testing capabilities, quality and efficiencies. 
+•	Extensive abilities as a team leader, generating a vision, establishing direction, and motivating team members; understanding personal and team roles; contributing to a positive working environment by building solid relationships with team members.
+•	Experience in assessing and appraising the maturity and implementing recommendations to lead organizations to a higher level of maturity and improve efficiencies.
+•	Experience managing Large QA Teams at Offshore and Onshore locations.
+•	Implemented Quality Programs with various Software Development Methodologies (TDD, AGILE, Waterfall). Implemented Quality Assurance strategies on a wide range of hardware and software domains with a proven record of successful performances and achievements. 
+•	Experience working with TMM, TDD, RUP, Agile, CMMI, IEEE, ISO and FDA 21 CFR Part 11.
+•	Experience in developing QA Strategies (Manual and Automation) for successful testing.
+•	Experience in introducing Automation in an Organization by selecting proper tools.
+
+TECHNICAL SUMMARY
+
+SOFTWARE SKILLS
+Atlassian Tools       :  Jira, Confluence  
+Other Tools           :  GitHub, Confluence, Segment.io, CircleCI, Jenkins    
+Rational Tools	      	:	Rational Functional Tester, Manual Tester, Clear Quest, Rational Robot, Test Manager, RequistePro 
+HP/Mercury Tools 	:	Quality Center 11, QTP 8.0, Win Runner 8, Load Runner 8.0, and Test Director 8.0
+Config Mgmt	:	Visual Source, CVS, PVCS, CM Synergy
+RDBMS	 	:	Oracle, DB2, MS SQL Server, Sybase
+Languages	:	Visual Basic 6.0, Java, C, C++, COBOL, and SQL/PLSQL
+Scripting Language	:	Test Script Language (TSL), JavaScript, VBScript.
+Web Technology	:	HTML, JSP, ASP, XML, SOAP SCOPE
+Middleware	:	BEA WebLogic, WebSphere 
+Operating System	:	Windows NT/XP, UNIX, Linux, 
+Main Frames		CICS, JCL
+
+
+CERTIFICATIONS 
+ISTQB: ADVANCED LEVEL TEST MANAGER (CTAL-TM) 
+ISTQB: FOUNDATION LEVEL (CTFL)
+ADDITIONAL PROFESSIONAL DEVELOPMENT
+
+TMMI: Member (TMMi Foundation) (http://www.tmmi.org/)
+
+PROFESSIONAL EXPERIENCE
+
+Bureau of Motor Vehicles                                                      July 15 – Present
+QA Manager
+Bureau of Motor Vehicles provides Indiana residents with Learner Permits, Driver Licenses, Titles, Plates and Registrations.
+
+Responsibilities: 
+•	Managed the QA Team in an Agile SDLC through successful multiple releases.
+•	Transformed the QA team from pure waterfall testing to Agile testing methodology. Established test automation strategy and implemented a team to deliver regression test suites that would mature into proficient test automation COE.
+•	Engaged with the client to understand the current state of SQA and proposed Test Process Improvement using the Industry best standards such as TMMi and TPI.
+•	Established Test Center of Excellence and implemented processes, procedures, tools and templates relative to SQA standards/best practices.
+•	Standardized guidelines and templates and applied industry best practices, methodologies in manual and automated testing
+•	Implemented testing process management and best practices with metrics based management and build a committed and high performing team
+•	Involved the QA Team early in the Agile SDLC process to focus on defect prevention and continuous improvement
+•	Introduced a structured approach to define test cases and enable reusability of testing artifacts.
+•	Adopted risk based testing, requirement traceability and other techniques to improve testing effectiveness and drive consistencies in processes.
+•	Establish KPI’s to include metrics such as application defects found in production and their impact on the business, defect closure rate and the requirement coverage.
+•	Assessed skill availability and determine the need for resource reassignment, training, additional hiring and augmentation.
+•	Created SQA strategies, Release Test plans to address end-to-end systems integration needs.
+•	Managed collaborative relationships with clients and partners.
+•	Implemented the Testing Tools and increased test efficiency, increased control over testing and increased the quality of deliverables.
+•	Developed the QA & Automation Improvement Plan as per the recommendations detailed in the BKD report.
+•	QA & Automation Improvement Plan detailed the effective use of testing tools, defect management, test case design techniques, test data management, automation strategy and testing approach during the release.
+•	Reviewed the QA deliverables for accuracy, completeness and quality.
+•	Managed the test team and ensured that the testing team follows the quality assurance standards, methodologies, and best practices as mentioned in Agile Playbook. 
+•	Improved the team skills by providing training, mentoring and coaching on QA Best Practices.
+•	Introduced suitable metrics for measuring test progress and evaluating the quality of the testing and the product.
+•	Provided support/coordination to the User Acceptance Testing (UAT). 
+•	Established quality measures and test processes and procedures.
+•	Coordinated testing done by all test teams for all system iterations and releases.
+•	Met completion dates and milestones according to the project schedule.
+•	Served as a liaison to the Project's sponsors or Executive stakeholders.
+•	Met the Project Management Team on a regular basis to ensure that scope, schedule, and standards/methodologies/best practices are being adhered to. 
+•	Provided KPI’s to the management on Rejected Defects, Time to test a feature and % of escaped defects (found post a release)
+•	Worked collaboratively with Test Leads in the planning of all tasks performed by the Testing team such as planning, executing, and reporting the results of all of the following types of tests: 
+1.	Functional Testing
+2.	System Integration Testing
+3.	Regression Testing
+4.	UAT (User Acceptance Testing)
+5.	Automated Testing
+6.	Post Release Validation
+Environment: Agile, Scrum, Team Foundation Server 2015, Visual Studio Online 2015, Browser Stack, C# 6.0, Share Point.
+
+Legislative Services Agency                                                   Oct 14 – Jun 15 
+Software QA Manager
+LSA provides the IT/Tech support to the two houses of the Indiana General Assembly (House and Senate) and helps them in enacting the laws by which the state of Indiana is governed. 
+
+Responsibilities: 
+•	Established and Managed the Software Testing discipline in testing mission critical applications in an agile software development.
+•	Hired Manual and Automation Testers (Functional and Performance) and transferred the testing responsibilities from Business Analysts to the Testing team.      
+•	Created the overall strategy, methodology, processes and procedures and oversaw the quality assurance function with the key goal of ensuring the overall quality of applications. 
+•	Developed the Budget and Resource Plan to ensure the applications are fully supported throughout the testing cycle.
+•	Identified growth opportunities for the team and established performance goals/performance reviews.
+•	Identified testing deficiencies and developed Test Process Improvement Plan that defined/established systems and procedures to address these deficiencies.
+•	Designed and documented the quality assurance methodology and embedded quality assurance into every stage of the software development process to ensure that every product and solution offered by the Technical Services team is of high quality and error free.
+•	Provided guidance to QA team in creating Test Plans, Testing Terminology estimating LOE (Level of Effort) for multiple projects and creating timelines.
+•	Established requirements reviews to understand user expectations and product design reviews to identify potential quality risks or challenges.
+•	Managed the testing and business resources through Functional, End-To- End and User Acceptance testing.
+•	Worked closely with the Off Shore Test and Dev Team based in Dublin, Ireland.
+•	Setup standard templates for Test Cases and Test Scripts and a standard process for gathering Metrics on Test Case creation, Test Execution and Defects.
+•	Established Peer Reviews of Requirements and Test Artifacts.
+•	Established the Defect Management process and implemented the Risk Based Testing approach to ensure that the high risk areas are thoroughly tested.
+•	Established Training Plan for existing resources on New Tools and Techniques and also created onboarding document for new hires.
+•	Identified the Tools for Automation and ensured that the regression test cases are fully automated.
+•	Automation of regression test cases helped decrease the regression testing time by 50%.
+•	Ensured appropriate test environments (hardware, software, configuration, versions, etc.) are available and maintained to properly emulate the production environment.
+•	Facilitated post-production “quality lessons learned” sessions with Technology Services team members.
+•	Implemented and directed a formal release management process for all applications to control movement of approved application changes into production.
+•	Produced effective, clear, and concise reports for all areas of responsibility.
+Environment: Agile, Scrum, Jira, Zephyr, Browser Stack, GitHub, Python, Ruby, Cucumber, Jenkins, Selenium IDE, Selenium WebDriver, Slack.
+
+
+State of Indiana, DWD                                                          Dec11 – Oct 2014 
+Quality Assurance Manager
+Project: UIM Tax & Benefits 
+
+Responsibilities: 
+•	Led a team of professionals to deliver on QA commitments with a high degree of quality and timeliness. 
+•	Drove the maturity of the test team using a hybrid benchmarking tool (cross between TMM & TPI) resulting in the team moving out of the storming stage into the norming stage and breaching into the performing stage within 18 months. 
+•	Some of the successes include standardizing methodologies & support technologies/templates, implementation of internal audit protocols, and embedding test automation into the SDLC. 
+•	The testing team caught over 95% of all defects prior to production (which is up from the previous years) contributing to a 20% reduction in production defect change requests.
+•	Established the vision and direction for the QA department, as well as directed the day-to-day operations of the resources that provide QA/testing in support of all IT projects.
+•	Developed the Road Map document to do gap analysis and identified the current state of testing and plan for the future state. 
+•	Developed the Master Test Plan which defined the testing approach, staffing and training needs and schedule. 
+•	Developed Test Strategy which defined the levels of testing such as Functional, System, Integration and UAT. Also identified the approach to automation at each level and approach to regression testing. 
+•	Developed the Enterprise Level Defect Management Process that defined the defect cycle and also Interaction between BA, Test, SME, DEV and Project stakeholders. 
+•	Developed a Testing Dashboard to show the testing status across all domains. 
+•	Developed testing schedule and tracked day to day activities of the testers. 
+•	Setup Daily Standup meetings to identify and resolve issues related to Testing and Defects. 
+•	Set up weekly, monthly testing goals for the test team and kept them motivated to accomplish and exceed those goals. 
+•	Ensured that the proper test environments are setup and utilized correctly by the testers. 
+•	Managed the test team during Functional, System, End to End Testing and UAT Phases. 
+•	Developed Automation Strategy and guided the team to identify and build the Regression Test Suite. 
+•	Established Traceability Matrix to link the Test Cases to the Story Boards, Supplementary Specifications, and Use Case documents. 
+•	Developed standards and naming conventions for Test Cases and Test Scripts for use by testers. 
+•	Ensured proper Peer Reviews of all the QA deliverables is performed and approved. 
+•	Identified Training Needs for the QA Team to ensure new tools and processes are learnt by the team. 
+•	Developed Risk Based Testing approach to optimize the testing process. 
+•	Provided Daily, Weekly Test Execution Summary Reports and Defect Reports to the Management. 
+
+Environment: Rational Functional Tester, Test Manager, RQM, Rational ClearQuest, Clearcase, Java, Oracle 11g, PL/SQL Developer
+
+Wellpoint, IN                                                                     July 09 – Dec11
+Sr IT Quality Control - FEP (Federal Employee Program)
+Projects: Streamline, ACA, and HIPAA 5010, Washington Releases
+WellPoint is the nation’s largest health benefits company in terms of medical membership, with 34 million members in its affiliated health plans and more than 70 million individuals served through its subsidiaries.
+
+Responsibilities:
+
+•	Managed all aspects quality assurance, from black box testing to testing automation, for several project initiatives.
+•	Oversaw QA workload, assigning projects and tasks to the teams to meet the needs of product schedules.
+•	Developed and implemented a more formal process for QA testing.
+•	Worked closely with developers and product managers in defining requirements and managing scope.
+•	Driven overall test strategies for multiple projects and recommend staffing plans to meet those needs.
+•	Recommended and put into use the testing tools (RQM, RFT) needed to better track testing and results.
+•	Developed the testing expertise and increased the skill level of each of the team members in directions that suit them individually.
+•	Developed detailed Test Strategy documentation that defines the test environment, phases of testing, entrance and exit criteria into different phases of testing and resources required conducting the effort.
+•	Developed and tracked testing estimates and schedules and participated in project risk management.
+•	Developed Risk Based Testing approach to ensure that all the major functionalities of the application are tested thoroughly.
+•	Guided and Mentored the team members on how to structure the test cases and help them analyze the issues found to determine if it’s a truly a defect or not and also ensuring the defects are marked by correct severity.
+•	Created white paper on Test Metrics to assess the quality of the testing effort.
+•	Provided Test Metrics on Test Execution, Defect Leakage to Production to the Executive Team on a regular basis.
+•	Ensured Requirement Traceability by linking the Requirements to the test assets.
+•	Implemented Data Driven Test Automation Frame work for Functional and Regression Testing using RFT.
+Environment: Rational Functional Tester, RQM, Rational ClearQuest, Requisite Pro, HIPAA 5010, Agile, Oracle SQL Developer, XML, MS Office, MS Project, CICS, DB2.
+
+Liberty Mutual, IN                                                                 Jun 06- Apr 09
+Sr QA Consultant
+Projects: PLS, PLIQ, FSD Testing, OCG Branding, CASPER (Personal Lines Systems), Arrange Financials & Guidewire Claims (Call Center Employee Software)
+
+Liberty Mutual provides Auto, Home and Life Insurance for Individuals and Businesses.
+
+Responsibilities:
+
+•	Reviewed and analyzed the Use Cases with Business Analysts.
+•	Followed RUP standards and templates in conducting the testing effort.
+•	Analyzed System architecture and prepared test artifacts.
+•	Created Test Cases and Test Suites using Test Manager. Mapped Test Cases and Requirements in Rational ReqPro.
+•	Executed test cases using Batch Files and Test harness.
+•	Created test bed using WinSQL to find Policies from DB.
+•	Used XML for validating Input and Output Files.
+•	Manually tested Real-Time Submit service through Main Frame application (PLS).
+•	Worked with the PLS Program level team testing integration of Main frame with the new Rating Integration Service.
+•	Created Test policies in PLS for Integration testing according to the Test Bed.
+•	Logged defects and worked with PLS developers on resolution.
+•	Submitted Daily Progress Report of the test Execution to Project management.
+•	Involved in weekly meetings, status meetings, defect meetings and actively discussed issues raised during testing.
+•	Created Documents for various processes and supported different teams.
+•	Served as a liaison between the users, facilitators and the project team as a team lead.
+•	Trained end users to effectively implement the new introduced technology both remotely and on site.
+•	Participated in User Acceptance Testing and Business to Business Transaction testing.
+
+Environment: Rational Suite 2003, Rational Robot, Test Manager, Rational ClearQuest, Rational RequisitePro, Clearcase, WinSQL, WinMerge, Beyond Compare, Zephyr Passport, DBVisualizer, Windows NT/2000, Oracle 8i, Java, WSAD, Altova XML Spy.
+
+RCI.com, IN                                                                      Nov 05 – Jun 06
+QA Lead—www.RCI.com
+
+RCI is the world's expert in exchange vacations. An exchange vacation allows members to discover new places and enjoy the freedom of resort vacationing all over the world. RCI is considered within the timeshare industry as the global leader in exchange vacations.
+
+Responsibilities:
+
+•	As a QA Lead/Analyst, responsibilities include planning and managing the testing effort and directing the testing team for Web applications RCI.com, XML VD, White Labels, and AgentWorks.
+•	Prepared and reviewed test plans, and identified testing risks and acted as a coordinator for all testing activities on the project.
+•	Played a key role in the assessment of product deployment readiness.
+•	Provided QA Process training and mentoring to Junior QA staff.
+•	Defined the Scope of System and Integration Testing.
+•	Performed reviews of business requirements and functional specification documents and created Manual test cases and test scripts.
+•	Ensured new applications and software modifications meet requirements and operate satisfactorily in the system environment.
+•	Managed test environment/data setup activities.
+•	Produced a system test schedule and managed the test cases criteria/test case creation.
+•	Produced Weekly Status including %completion/test results/issues. 
+•	Communicated overall test results and coordinated defect management/resolution using Quality Center.
+•	Worked on test-related activities with offshore test and development teams.
+•	Defined and tracked quality assurance metrics such as defect densities and open defect counts.
+
+Environment: Mercury Quality Center 8.2, IBM Mainframe (EVS1 & DBL), XML VD, SQL*Plus, MS Project 2003, Windows XP, Windows 2000, J2EE, Java, JavaScript, IE 5.5/6.0.
+
+Liberty Mutual, IN                                                                  Jan 05- Oct 05
+Sr QA Consultant -- UA-Underwriting Assistant (Renewals)                                               
+Liberty Mutual provides Auto, Home and Life Insurance for Individuals and Businesses.
+An extension of Underwriting Assistant, "Renewals" a web based application automated the process of Commercial Lines Insurance Policy renewal. 
+
+Responsibilities:
+
+•	As a Sr QA, performed automated and manual testing of web and mainframe applications. 
+•	Developed and implemented automation test scripts, documented and reported test results utilizing Rational Tool Suite (Rational Robot, TestManager, ClearQuest and ReqPro).
+•	Helped decide which test components can be automated and Implement automated tests.
+•	Developed, maintained and executed Smoke Test Scripts using Rational Robot in each build to verify whether the system is at an acceptable state for testing and all services are up or not.
+•	Executed Automated Regression Test Scripts across different product releases.
+•	Involved in the development of Automation Test Framework scripts for Referral Desktop application.
+•	Using Rational Robot recorded the business process by inserting Verifications Points to verify the Business Logic with different test cases, transactions and data.
+•	Inserted a Call to others Scripts using CallScript command and developed Shell Scripts to group several scripts and playback in sequence.
+•	Used SQABasic Header files to declare custom procedures, constants, and variables
+•	Used Library Files for storing custom procedures that multiple scripts need to access.
+•	Involved in the Performance Testing of the questionnaire application of the IQ Development/UA Renewals Project.
+•	Used Mercury LoadRunner for Load/Performance Testing and helped in the creation of the Load & Performance Test Plan & Strategy for the IQ Development Questionnaire Application. 
+•	Coordinated with Business & Functional Team to gather the Performance Test requirements.
+•	Worked on Mainframe systems like Mecca, AQS to create test data for the Functional & Testing. 
+•	Involved in UAT (User Acceptance Testing) defect management.
+
+Environment: Rational Suite 2003/2002.05.20, Rational Robot, Test Manager, Rational Functional Tester 6.0, Rational ClearQuest, Rational RequisitePro, Mercury LoadRunner 7.8, Mainframe systems (Mecca, AQS), MS Project 2003, MS Visio, Windows NT, Windows 2000, J2EE, Java, JavaScript, IE 5.5/6.0.
+
+UPS, KY                                                                          May 03- Dec 04
+Sr QA Analyst --CMS
+
+The Crew Management System (CMS) is a generic product developed by Boeing/Jeppesen for its airline customers and customized for specific requirements from UPS. This product maintains the daily activities of the airline crewmembers and helps the crew schedulers in scheduling assignments. 
+
+Responsibilities:
+
+•	Worked collaboratively with operational departments in UPS, system engineers, third party vendors, project managers, and partner companies to gather and analyze data to determine functional information, system requirements and design for use in testing of the Project. 
+•	Provided time & resource estimates related to testing efforts.
+•	Created comprehensive Test Schedule and milestones with the appropriate dependencies.
+•	Identified the data needs for test execution. This includes the setup of test data required to complete the test cases and management of the test environments.
+•	Involved in Requirement Gathering, Design and Prototype development and Testing of the Crew Management System (CMS) application.
+•	Developed Iteration Test Plan, Software Verification and Validation Plan, Test Strategy, Test Cases, and Test Scripts for the application.
+•	Performed evaluation of Rational and Mercury Tools to identify the best tools for automation.
+•	Developed the Automation Strategy and used Mercury Test Suite for automation.
+•	Functional and regression testing was done using Winrunner. 
+•	Performed Regression testing using existing Winrunner test scripts across multiple builds of an application. 
+•	Using Winrunner recorded the business process by inserting GUI Checkpoints Points.
+•	Created Data Driven Tests with Multiple Sets of Data to verify the Business Logic.
+•	Added GUI Checkpoints to the test scripts to check the behavior of the GUI Objects Properties.
+•	Developed and maintained a test case hierarchy in TestDirector and linked it to the requirements. 
+•	Reported test results and defects using TestDirector and associated them with Test Cases and Requirements. 
+•	Work with the End Users during User Acceptance Testing and in the development of Acceptance Test Plan and Test Cases
+•	Performed Smoke Testing, System Testing and Integration Testing.
+
+Environment: Winrunner 7.0, LoadRunner 7.0, TestDirector 7.2, UML, Java Script, J2EE, Oracle 9i, HTML/DHTML, Windows NT, IE 5.5/6.0, MS Project 2000, Win 2K, NT 4.0, XP
+
+First American, CA                                                                Jan 03- Apr 03
+QA Tester- www.DataFlite.com, www. eCredco.com
+
+DataFlite® and eCREDCO take Instant Merge™, are desktop credit-reporting and intelligent-decision tools to new heights of flexibility and power.  DataFlite and eCredco deliver the industry's most accurate, customizable credit data instantly-utilizing existing hardware and online connections.
+
+Responsibilities:
+
+•	Involved in various phases of SDLC starting with the analysis, design, and development and testing of the Web based application. 
+•	Performed Manual Testing of the application.   
+•	Wrote test strategy, which detailed the testing scope.
+•	Created and executed test cases for new features, analyzed and documented test output and managed resulting defects through re-testing cycles.
+•	Participated in all applicable requirement reviews and design meetings as well as facilitated test case reviews.
+•	Analyzed problems to assess whether code, environment, or data is the root cause.
+•	Executed Smoke, Integration and System Testing.
+•	Verified software errors and interacted with developers to resolve the issues.
+•	Planned and estimated the test effort, developed test schedules, defined the scope and criteria for system and integration tests, and coordinated the setup of test environments
+
+Environment: Rational Clear Quest, MANTIS, VB, XML, JavaScript, HTML, DHTML, Oracle 8i, SQL Server 7.0, MS Word, MS Excel, IE, Netscape, Win 95/98/2K/NT/XP.
+
+American Express, AZ		                                                    Jul 02 – Jan 03
+QA Analyst – Purchase Express
+Purchase Express is a complete credit card authorization and submission program designed by American Express to meet the requirements of merchants who operate in a card-not-present environment-either business-to-business suppliers or retail merchants. Purchase Express manages and processes American Express, Visa, MasterCard, Discover Card…etc
+
+Responsibilities:
+
+•	As a QA Analyst, major responsibilities include guiding the products through the Software Quality Assurance (SQA) process, design new automated tests, chart test plans for product releases, oversee the review of design and functional specifications, carry out specific test plans etc. 
+•	Involved in Full testing development life cycle.
+•	Performed Use-case-based analysis of requirements for the solicitation, capture, and presentation of software requirements.
+•	The creation of test cases were directly tied to the functional flows detailed in the use cases.
+•	Used Rational Robot for GUI tests and tested GUI standards of this application.
+•	Involved in Recording, debugging, playback, and programming techniques in developing Rational Robot test scripts to test the GUI application. 
+•	Functional and regression testing was done using Rational Robot. 
+•	Rational Test Manager is used to determine the system behavior and performance under stressful conditions, determine the processing thresholds and limitations for the system under test for all hardware, software and network components.
+•	Developed Test Data required for Load Test scenarios. 
+•	Built Test Scenarios with automated test scripts. All test scripts for all test scenarios were executed and a result report was produced using Test Manager. 
+•	Involved in white/black box testing and manual testing methodologies. 
+•	Installed and Configured Several External and Internal Modems.
+•	Defect and Change Tracking was done using TestTrack and Rational ClearQuest.
+
+Environment: Rational Suite 2002.05.20, RUP, Rational Robot, Test Manager, Rational ClearQuest, Rational RequisitePro, TestTrack, V.B 6.0, DB2, U.S.Robotics, Hayes, Stratus, NAN, Lotus Notes 5.0.9, IE 5.5/6.0, MS Access, MS Project 2000, Win 95/98, Win 2K, NT4.0, XP.
+
+eResearch Technology, Inc., NJ 	                                              Jul 01 – Jul 02
+QA Analyst - EXPeRT Tool
+eResearchTechnology (eRT) is a business-to-business provider of integrated technology based products and services to the pharmaceutical, medical device, and biotechnological industries. 
+EXPeRT is a web-based software solution for Cardiac Diagnostic system for eRT that supports clinical trials by collecting the test data (e.g. ECG, Holter, and TTM) and providing subsequent clinical analysis of the data.
+
+Responsibilities:
+
+•	Designed, Developed and Managed the QA Process.
+•	Implemented FDA, 21 CFR Part 11 in the SDLC.
+•	Worked with Users in data gathering and analysis.
+•	Developed test plans, executing test scripts and summarizing test results.
+•	Collaborated directly with other members of the team in the development of Validation Master plans to fulfill requirements of the Electronic Records/Signatures regulations (21 CFR Part 11)
+•	Coordinated in the development of best practices for software verification and validation test strategies.
+•	Involved in gathering business requirements and in the development of system testing documentation.
+•	Developed validation documentation, such as Traceability Reports, Validation Plans, Testing Protocols, and Testing Summary Reports.
+•	Verified that the business requirements are complete by identifying test scripts.
+•	Identified missing and incomplete requirements.
+•	Involved in Validating the Requirements to identify what are the types of testing, how testing is performed.
+•	Use Cases were used in Traceability and estimating the percentage of requirements captured.
+•	Using Rational Robot recorded the Business process by inserting Verification Points to verify the Business Logic with different Test Case/Test Scripts, Transactions and Data.
+•	Test Manager was used to provide Project Administration, User Management, Reporting, Test management and Maintenance of Defects Database.
+•	Generated Completion and Defects Report, Tracked Defects and performed Regression Testing as per technical and functional specifications.
+•	Involved in Smoke Testing, Integration Testing, Installation Testing, Functional Testing, and System Testing.
+•	Tested the Application in different Web Browsers and on Multiple Platforms. 
+
+Environment: Rational Suite 2000.02.10/2001.03.00, Rational Team Test, Rational Test Manager, Rational Robot, Rational Site Check, Clear Quest2.0, Rational RequisitePro, Rational Unified Process, UML, Rational Rose, SQA Basic, Linkbot Pro, PVCS, VB 6.0, ASP, HTML, DHTML, MS Project 98/2000, Windows 98/2K/NT, and Linux, WebLogic, AOL, IE, Netscape
+
+Hotdispatch, Inc., CA		                                                    Apr 00 – Jul 01
+QA Analyst
+HotDispatch Community members, including IT/IS professionals, systems integrators, and channel partners, use the hotdispatch marketplace to buy and sell knowledge services such as questions & answers, project outsourcing, and software exchange.
+
+Responsibilities:
+
+•	Worked on all phases of multiple projects from initial concept through research and development, implementation, QA, to live production, by strict adherence to project timelines and to resolve and troubleshoot business design issues before they impede project success.
+•	The application was tested using Rational SQA*Suite.
+•	Developed a system test plan with test scripts corresponding to use cases and exception scenarios.
+•	Test cases are created in order to verify that the desired system functionality has been implemented by the development effort.
+•	Created test cases to directly tie to the functional flows detailed in the use cases.
+•	Involved in Black Box and White Box Testing.
+•	Rational TestManager Log is used to Review and Analyze Test Results.
+•	Rational Robot was used for recording GUI Scripts, Adding feature to the GUI Scripts, Creating Verification Points, Editing, and Debugging Scripts.
+•	Performed functional testing for new release enhancements.
+•	Provided system performance reports and statistical analysis to project Management.
+•	Participated in application defects elimination through defect reporting to application developers using Rational Clear Quest. 
+•	Used Linkbot Pro to identify broken links, broken image tags, missing title tags, missing metadata, and orphaned pages that aren't linked to any other pages on the site.
+
+Environment: Rational Suite 2000.02.10/2001.03.00, Rational Team Test, Rational Test Manager, Rational Robot, Clear Quest, Rational RequisitePro, RUP, UML, Rational Rose, Linkbot Pro, PVCS, MS Project 98/2000, Documentum, XML, Java 1.2, C++, EJB, JSP, JDBC, Perl, SQL, PL/SQL, Oracle 8i/8.x, SQL*Loader, Designer 2000, Erwin, Windows, WebLogic, IE, Netscape
+
+Xyratex, CA   					                                     Apr 99 – Mar 00
+QA Engineer
+Xyratex is a network infrastructure technology leader in developing OEM solutions for the high-speed networking, digital broadcasting and data storage marketplaces. This web site is involved in Selling of Xyratex products for B2B and B2C online.
+
+Responsibilities:
+
+•	Designed, Developed and Managed the QA Process.
+•	The application was tested using Rational SQA*Suite.
+•	Involved in developing test design, test procedures, test results, test scripts. 
+•	Rational Robot was used for recording GUI Scripts, Adding feature to the GUI Scripts, Creating Verification Points, Editing, and Debugging Scripts.
+•	Rational Robot was used to create verification points to test the state of the objects.
+•	Rational Test Manager was used to Plan, Design, Implement, and Execute and Evaluate the Tests.
+•	Rational Test Manager was used to review and analyze test results and enter defects.
+•	Prioritized, sorted and assigned requirements using Rational RequisitePro.
+•	Participated in application defects elimination through defect reporting to application developers using Rational Clear Quest.
+•	Performed several testing methods like regression, LAN, Stress and Volume wherever required.
+•	Used Clear Quest for the defect tracking of the databases such as Sybase, Oracle and SQL Server.
+
+Environment: Rational Suite 2000.02.10, Rational Team Test, RequisitePro, Rational Robot, Rational Quantify, Rational Site Check, Clear Quest, ClearCase, RUP, UML, PVCS, Java 1.2, JSP, EJB, XML, C++, SQL Server 6.5, Sybase, Oracle7.x/8.x, Win NT/98, Unix
+
+
+EDUCATION 
+Bachelor Degree (Osmania University)

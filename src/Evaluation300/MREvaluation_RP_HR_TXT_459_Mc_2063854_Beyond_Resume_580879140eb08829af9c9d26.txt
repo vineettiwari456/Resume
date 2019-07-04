@@ -1,0 +1,37 @@
+
+EDUCATION
+FORDHAM UNIVERSITY, GABELLI SCHOOL OF BUSINESS                                                            New York, NY
+Master of Science, Quantitative Finance, GPA: 3.5                                                                                               Feb 2013
+       Graduate Assistant with Professor Chaitra H. Nagaraja
+       Passed CFA Level 1 Exam                                                                                                                      Dec 2013
+THE OHIO STATE UNIVERSITY, FISHER COLLEGE OF BUSINESS                                              Columbus, OH
+Bachelor of Science, Business Administration, GPA: 3.6                                                                                      June 2011
+Major in Finance, Minor in Mathematics
+      Math Tutor, Mathematics and Statistics Learning Center, the Department of Mathematics
+      Passed Society of Actuaries exams Probability(P) and Financial Mathematics(FM)                           June 2011
+PROFESSIOANL EXPERIENCE
+   HANERGY HOLDING GROUP  - Industry Leading Clean Energy Company                                     Beijing, China
+Investment Analyst, Investment Management Division                                                                  Jan 2015 - Mar 2016
+      Conducted research on European insurance market by analyzing business models, financial statements, and shareholder structure of industry leaders; made detailed analysis of potential investment targets.
+      Identified feasible investment opportunities by researching real estate market, Chinese EV market, and applied analytical process to determine whether opportunities meet the companys investment criteria.
+      Presented research analysis to management in conference meetings. Gave training presentations to product management team on writing business plan and making market analysis.
+      Participated in deal negotiations, also scheduled and participated due diligence meetings and conference calls with investment managers.
+  SHUPAI FINANCIAL  FX and Commodity Trading Company                                                       Beijing, China
+  Research Analyst, Investment Research Department                                                                  May 2013  Oct 2014
+      Implemented technical trading strategies by coding trading models using Matlab, and forecast key performance metrics, such as buy/sell price, position size, and risk/reward ratio, etc.
+      Validated market data using Excel and updated data report for global financial market on a daily basis.
+      Performed industry research on global economy outlook, writing research reports.
+      Developed and maintained user-friendly modeling spreadsheets to help software developers build database.
+  REVAL -  Global Provider of SaaS Solutions for TRM                                                                      New York, NY
+  Quantitative analyst Intern, Financial Engineering Department                                             Apr 2012  Dec 2012
+      Developed the Cash Flow at Risk Model (CFaR)s diversification and sensitivity functionality, which involved in modeling the risk factor dynamics, simulating cash flows, and measuring their distributions. CFaR risk management model received award for saving clients millions of dollars.
+      Analyzed the CFaR for client portfolios that consist of commodity, interest rates and foreign exchange exposures and interpreted the results to explain the behavior of the portfolio with and without optimization.
+      Delivered functionality specifications (IR term structure volatility) to guide the development of advanced risk management tools.
+      Helped with structured interest rate derivatives pricing and valuation.
+      Validated the market data, and simulated data and system outputs of newly developed functionalities.
+      Received training in pricing double window barrier option using C++ language.
+ADDITIONAL
+     Working knowledge of MS Excel, SQL, Matlab, Bloomberg, Self-teaching Python.
+      Writing Skills: Ability to efficiently produce concise, organized research reports.
+      Bilingual, native mandarin and fluent English speaker.
+      Performed translation work for Rule#1, China Youth Press, 2007.
