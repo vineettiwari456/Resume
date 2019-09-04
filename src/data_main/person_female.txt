@@ -402,6 +402,8 @@ Anatola
 Anaya
 Anayatha
 Anchal
+Priyanka.M
+SAJITHRA
 Andee
 Andi
 Andie
@@ -1295,7 +1297,6 @@ Caroleen
 Carolie
 Carolin
 Carolina
-Caroline
 Caroljean
 Carol-Jean
 Carolyn
@@ -4019,6 +4020,7 @@ Kaveri
 Kavika
 Kavit
 Kavita
+Manasmita
 Kavitha
 Kawal
 Kawita
@@ -4440,6 +4442,7 @@ Leela
 Leelah
 Leelawati
 Leena
+LEENA
 Leesa
 Leese
 Legra
@@ -8689,3 +8692,4 @@ Zuzana
 Kruti
 Nimmi
 Alaka
+Caroline

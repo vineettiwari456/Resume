@@ -1,6 +1,8 @@
 Aabid
+Amiya
 REANN
 Aquib
+BIBHUDUTTA
 Aadarsh
 Aadav
 Melbin
@@ -3700,7 +3702,6 @@ Kauthuk
 Kauva
 Kaval
 Kavana
-Kavi
 Kavilash
 Kavish
 Kavit
@@ -3806,6 +3807,7 @@ Kinnar
 Kinshuk
 Kintan
 Kip
+Mohit
 Kirashan
 Kirby
 Kirit
@@ -4096,7 +4098,6 @@ Lokki
 Loknath
 Lokpradeep
 Lokprakash
-Lon
 Lonnie
 Lonny
 Lord Shiva
@@ -4605,7 +4606,6 @@ Mohd.Wahid
 Mohhmad
 Mohin
 Mohinuddin
-Mohit
 Mohmad
 Mohmed
 Mohmmad
@@ -5989,6 +5989,7 @@ Ranak
 Ranbir
 Rancho
 Rand
+ANDAL
 Randal
 Randall
 Randeep

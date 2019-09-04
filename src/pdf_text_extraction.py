@@ -62,10 +62,11 @@ class PdfExtractor:
         # print(device_data_list)
         device_data_list = ' '.join([i[-1] for i in device_data_list])
         # print(device_data_list)
+        open_file.close()
         return device_data_list
 
 
 if __name__ == "__main__":
     obj = PdfExtractor()
-    data_list = obj.get_pdf_text("doc_file/Abhijit Das_Power2SME.pdf")
+    data_list = obj.get_pdf_text("doc_file/90378400.pdf")
     print(data_list)

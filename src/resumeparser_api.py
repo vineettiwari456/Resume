@@ -29,7 +29,7 @@ def parse_resume():
     if request.method == 'POST':
         file = request.files.get('file',None)
         raw_text = request.form.get("resume_text",None)
-        print(file,len(str(raw_text)),request.files)
+        # print(file,len(str(raw_text)),request.files)
         if not file and not raw_text:
             # flash('No selected file')
             return json.dumps({"status": 400, "reason": "No selected file"}), 400
@@ -41,13 +41,13 @@ def parse_resume():
                 val_data = obj.extract_block(filepath)
                 # print ('==================>',val_data)
                 os.remove(filepath)
-                return json.dumps({"status": 200, "data": val_data})
+                return json.dumps({"status": 200, "data": val_data}),{'Content-Type': 'application/json'}
             except Exception as e:
                 return json.dumps({"status": 500, "reason":str(e)}), 500
         elif raw_text:
             try:
                 val_data = obj.extract_block(None,resume_text=str(raw_text))
-                return json.dumps({"status": 200, "data": val_data})
+                return json.dumps({"status": 200, "data": val_data}),{'Content-Type': 'application/json'}
             except Exception as e:
                 return json.dumps({"status": 500, "reason":str(e)}), 500
         else:
@@ -55,7 +55,7 @@ def parse_resume():
 
 def start_api():
     try:
-        app.run('0.0.0.0', port=9000, threaded=True)
+        app.run('0.0.0.0', port=9000, threaded=True, debug=False)
     except Exception as e:
         raise Exception('Exception occurred in initializing ' + str(e))
 

@@ -186,6 +186,10 @@ PROJECT SUMMARY
 Employer Details
 Employer details
 EMPLOYER DETAILS
+EMPLOYER
+CURRENT POSITION
+E X P E R I E N C E
+Employer
 Career Summary
 CAREER SUMMARY
 Career summary
@@ -443,6 +447,8 @@ Employment background
 Training and Lab Work
 Training and Lab work
 WORK EXPERIANCE
+PROFESSIONAL DETAILS
+EXPERIENCE HIGHLIGHTS
 Work Experiance
 Other Professional Experience
 Past appointments

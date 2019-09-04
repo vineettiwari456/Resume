@@ -10530,6 +10530,8 @@ Front Line Manager
 Front Line Receptionist
 Front Line Supervisor
 Front Manager
+node js developer
+mean stack developer
 Front Office
 Front Office Agent
 Front Office Assistant
@@ -24271,6 +24273,10 @@ Strategic Marketing Supervisor
 Strategic Partner
 Strategic Partners
 Strategic Planner
+Telecaller
+MSBI DEVELOPER
+VMware admin
+SSIS Developer
 Strategic Planning Analyst
 Strategic Planning And Business Development Officer
 Strategic Planning Consultant
@@ -24281,6 +24287,7 @@ Strategic Sourcing Specialist
 Strategic Sourcing Supervisor
 Strategic Supervisor
 Strategies Analyst
+Senior Director Human Resources
 Analyst
 Strategy Analyst
 Strategy Associate

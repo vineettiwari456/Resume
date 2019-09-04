@@ -191,9 +191,16 @@ Garima Sethi
 
 
 
-for i in range(1,10):
-    if i<5:
-        # print('NO')
-        continue
-    print(i)
+# for i in range(1,10):
+#     if i<5:
+#         # print('NO')
+#         continue
+#     print(i)
+# import re
+# regex = '\b(m.s.)\b'
+# string1="education 2011- 2013 m.s. computer science, university of new orleans new orleans, la 2004-2006 m.s. computer science, university of pune pune, india 2000-2003 skill set b.s. computer science, university of pune pune, india'"
+# for g in re.finditer(regex, string1):
+#     print(g.group())
 
+fp = open('doc_file/90173049.pdf','rb')
+print(fp.read())

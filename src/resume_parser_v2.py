@@ -21,6 +21,7 @@ from nltk_ner_extract_name import extract_person_name_location
 from get_phone_number import getPhone
 from pdf_text_extraction import PdfExtractor
 from company_skill_data import CompanyData
+from extract_education_details import EducationDetails
 
 
 class ResumeParser:
@@ -28,6 +29,7 @@ class ResumeParser:
         # self.filepath = filepath
         self.obj_ner = NameEntity()
         self.obj_pdf = PdfExtractor()
+        self.obj_edu_details=EducationDetails()
         self.main_keywordlist = []
         self.mapping_dict = {}
         self.designations = []
@@ -339,7 +341,7 @@ class ResumeParser:
         # print(regex)
         # regex = r"((((\d{1,2}\s*)?(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Sept)\s*(\d{1,2}\s*)?\d{4})|(^\d\d\d\d(\/|-|.)(0?[1-9]|1[0-2])(\/|-|.)(0?[1-9]|[12][0-9]|3[01])\S)|(\d{1,2}(-|\/)\d{1,2}(-|\/)\d{2,4})|(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)(-|.)\s*\d{4}|(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s*(\d{1,2}\s*)?(,)\s\d{4})\s*(to till|to|-|To|TO|-|–)?\s*((((\d{1,2}\s*)?(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Sept)\s*(\d{1,2}\s*)?\d{4})|(^\d\d\d\d(\/|-|.)(0?[1-9]|1[0-2])(\/|-|.)(0?[1-9]|[12][0-9]|3[01])\S)|(\d{1,2}(-|\/)\d{1,2}(-|\/)\d{2,4})|(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)(-|.)\s*\d{4}|(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s*(\d{1,2}\s*)?(,)\s\d{4})|(Present|till|Till|PRESENT|current|Current|CURRENT))?)".lower()
         # regex =r"((((\d{1,2}\s*)?(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Sept)\s*(\d{1,2}\s*)?\d{2,4})|(^\d\d\d\d(\/|-|.)(0?[1-9]|1[0-2])(\/|-|.)(0?[1-9]|[12][0-9]|3[01])\S)|(\d{1,2}(-|\/)\d{1,2}(-|\/)\d{2,4})|(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)(-|.)\s*\d{2,4}|(\d{1,2}(\/|-)\d{1,4})|(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s*(\d{1,2}\s*)?(,)\s\d{4})\s*(to till|to|-|To|TO|-|–)?\s*((((\d{1,2}\s*)?(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Sept)\s*(\d{1,2}\s*)?\d{2,4})|(^\d\d\d\d(\/|-|.)(0?[1-9]|1[0-2])(\/|-|.)(0?[1-9]|[12][0-9]|3[01])\S)|(\d{1,2}(-|\/)\d{1,2}(-|\/)\d{2,4})|(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)(-|.)\s*\d{2,4}|(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s*(\d{1,2}\s*)?(,)\s\d{2,4})|(\d{1,2}(\/|-)\d{1,4})|(Present|till|Till|PRESENT|current|Current|CURRENT))?)".lower()
-        regex = r"((since)?\s*?(((\d{1,2}\s*)?(?:january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|sept)\s*(\d{1,2}\s*)?\d{2,4})|(^\d\d\d\d(\/|-|.)(0?[1-9]|1[0-2])(\/|-|.)(0?[1-9]|[12][0-9]|3[01])\s)|(\d{1,2}(-|\/)\d{1,2}(-|\/)\d{2,4})|(?:january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|sept)(-|.)\s*\d{2,4}|(\d{1,2}(\/|-)\d{1,4})|(\d{4}(\/)\d{1,2})|(?:january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|sept)\s*(\d{1,2}\s*)?(,)\s\d{4})\s*(to till|to|-|to|to|-|–)?\s*((((\d{1,2}\s*)?(?:january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|sept)\s*(\d{1,2}\s*)?\d{2,4})|(^\d\d\d\d(\/|-|.)(0?[1-9]|1[0-2])(\/|-|.)(0?[1-9]|[12][0-9]|3[01])\s)|(\d{1,2}(-|\/)\d{1,2}(-|\/)\d{2,4})|(?:january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|sept)(-|.)\s*\d{2,4}|(\d{4}(\/)\d{1,2})|(?:january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|sept)\s*(\d{1,2}\s*)?(,)\s\d{2,4})|(\d{1,2}(\/|-)\d{1,4})|\b(19|20)\d{2}|(present|till|till|present|current|current|current|ongoing))?)".lower()
+        regex = r"((since)?\s*?(((\d{1,2}\s*)?(?:january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|sept)\s*(\d{1,2}\s*)?\d{2,4})|(^\d\d\d\d(\/|-|.)(0?[1-9]|1[0-2])(\/|-|.)(0?[1-9]|[12][0-9]|3[01])\s)|(\d{1,2}(-|\/)\d{1,2}(-|\/)\d{2,4})|(?:january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|sept)(-|.)\s*\d{2,4}|(\d{1,2}(\/|-)\d{1,4})|(\d{4}(\/)\d{1,2})|(\d{4})|(?:january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|sept)\s*(\d{1,2}\s*)?(,)\s\d{4})\s*(to till|to|-|to|to|-|–)?\s*((((\d{1,2}\s*)?(?:january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|sept)\s*(\d{1,2}\s*)?\d{2,4})|(^\d\d\d\d(\/|-|.)(0?[1-9]|1[0-2])(\/|-|.)(0?[1-9]|[12][0-9]|3[01])\s)|(\d{1,2}(-|\/)\d{1,2}(-|\/)\d{2,4})|(?:january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|sept)(-|.)\s*\d{2,4}|(\d{4}(\/)\d{1,2})|(?:january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|sept)\s*(\d{1,2}\s*)?(,)\s\d{2,4})|(\d{1,2}(\/|-)\d{1,4})|\b(19|20)\d{2}|(present|till|till|present|current|current|current|ongoing))?)".lower()
         rawyear = re.findall(
             regex,
             raw_text.lower().replace("th", '').replace(",", ''))
@@ -732,8 +734,10 @@ class ResumeParser:
                         pass
                 temp["start_date"] = start_dat
                 temp["end_date"] = end_dat
-                if temp["end_date"] == "Present" and ind_designat == "":
+                if ind_designat == "":
                     ind_designat = current_designation
+                # if temp["end_date"] == "Present" and ind_designat == "":
+                #     ind_designat = current_designation
                 temp["designation"] = self.get_location_uuid(ind_designat.capitalize(), self.desig_master_data)
                 if temp.get("start_date", "") != "" or temp.get("end_date", "") != "":
                 # if ind_designat:
@@ -976,7 +980,7 @@ class ResumeParser:
             segmented_dic = self.get_orginal_segmented_dic(block_seprated_dict, kwdict)
             # print('cccccccc', c - time.time())
             d = time.time()
-            segmented_dic["Profile_Name"] = segmented_dic["Profile_Name"] + " " + "xxxxxxxxxxxxxx"
+            segmented_dic["Profile_Name"] = "xxxxxx "+segmented_dic["Profile_Name"] + " " + "xxxxxxxxxxxxxx"
             # print(segmented_dic)
             raw_city_data = segmented_dic.get("Profile_Name", "") + " " + segmented_dic.get(
                                                  "profile_details", "") + " " + segmented_dic.get("work_experiences",
@@ -1051,7 +1055,7 @@ class ResumeParser:
             print('foundcmp', time.time() - hg)
             # print(pvt_ltd_raw_data)
             found_cmp_index, compkeyindex = self.get_current_keyword_index(pvt_ltd_raw_data, found_cmp)
-            print(found_cmp_index, compkeyindex)
+            # print(found_cmp_index, compkeyindex)
             temp_cmp_index = self.get_temp_company_index(found_cmp_index, pvt_ltd_raw_data)
             print('temp_cmp_index--', temp_cmp_index)
             found_cmp_ind = {}
@@ -1066,11 +1070,18 @@ class ResumeParser:
             # print(found_designation_index)
             found_designation_ind = self.get_multiple_same_index(desigkeyindex)
             found_designation_name = self.get_first_preference_name(found_designation_ind)
-            # print(found_designation_name)
+            # print('hhhhhhhhhhhhhhhhhhhhhhhhhh',found_designation_name)
             print('+++++++++++++++++++++',time.time() - d)
             df = time.time()
-            found_skills = self.obj_company_skill.found_skills(raw_data)
+            # found_skills = self.obj_company_skill.found_skills(raw_data)
+            found_skills = self.obj_company_skill.found_skills(segmented_dic.get("skills",""))
             skills = list(set(found_skills))
+            if len(skills)==0:
+                found_skills = self.obj_company_skill.found_skills(segmented_dic.get("work_experiences", ""))
+                skills = list(set(found_skills))
+            # if len(skills)==0:
+            #     found_skills = self.obj_company_skill.found_skills(raw_data)
+            #     skills = list(set(found_skills))
             skills_uuid = self.get_location_uuid(skills, self.skills_master_data, is_list=True)
             ds = time.time()
             # print(found_years_index)
@@ -1078,15 +1089,10 @@ class ResumeParser:
             all_workexp = self.get_complete_work_experince(found_cmp_ind, pvt_ltd_raw_data,
                                                            found_designation_name)
             # all_workexp = self.get_complete_work_experince(found_cmp_ind, found_years_index, pvt_ltd_raw_data, found_designation_name)
-            resume_dict["resume"] = {"skills": skills_uuid, "work_exps": all_workexp, "educations": [
-                {
-                    "highestQualification": {"uuid": "", "name": ""},
-                    "college": {"uuid": "", "name": ""},
-                    "yearOfPassing": "2019"
-                },
-            ]}
-            # print(segmented_dic)
-
+            raw_edu_text = segmented_dic.get("education_and_training"," ")+" "+segmented_dic.get("qualifications"," ")+" "+segmented_dic.get("profile_details"," ")+" "+segmented_dic.get("Profile_Name"," ")
+            education_details = self.obj_edu_details.found_educations(raw_edu_text)
+            # print(raw_edu_text)
+            resume_dict["resume"] = {"skills": skills_uuid, "work_exps": all_workexp, "educations": education_details}
             print('Work exp time : ', time.time() - ds)
             print(resume_dict)
             return resume_dict
@@ -1140,7 +1146,7 @@ if __name__ == "__main__":
     # path = "doc_file/Resume_Multiple_Column.docx"
     # path = "doc_file/Resume.docx"
     # path = "doc_file/multiple Rows_Multiple Column _Tabular Form Resume.docx"
-    # path = "doc_file/Abhijit Das_Power2SME.pdf"
+    path = "doc_file/Abhijit Das_Power2SME.pdf"
     # path = "doc_file/Aarjav Jain_Product Manager_Mettl_6 yrs (1).docx"
     # path = "doc_file/Garima CV Testing-3.2 Yrs.docx"
     # path = "doc_file/Abhinandan Malhotra_Data Scientist_IIT.pdf"
@@ -1181,8 +1187,30 @@ if __name__ == "__main__":
     # path ="doc_file/tempResume.pdf"
     # path = "doc_file/Pawan Sharma_2.6 yrs_Manindra Comviva.pdf"
     # path = "doc_file/Abijeet Singh (1).docx"
+    path ="doc_file/Skill Test Resume.docx"
+    path = "doc_file/Skill Test Resume 2.docx"
+    path = "doc_file/Abi Das.pdf"
+    path = "doc_file/90173049.pdf"
+    path = "doc_file/90113255.pdf"
+    path = "doc_file/90042989.docx"
+    path = "doc_file/90062961.docx"
+    path = "doc_file/90270803.docx"
+    path = "doc_file/90066833.pdf"
+    path = "doc_file/90006356.docx"
+    path = "doc_file/90045785.pdf"
+    path = "doc_file/90155351.pdf"
+    path = "doc_file/90128520.docx"
+    path ="doc_file/90058206.docx"
+    path="doc_file/90054433.pdf"
+    path ="doc_file/90351777.pdf"
+    path = "doc_file/90089592.docx"
+    path ="doc_file/90006294.docx"
+    path ="doc_file/90130273.pdf"
+    path ="doc_file/90343782.docx"
+    path ="doc_file/90024681.docx"
     obj = ResumeParser()
-    text =''
+    text =''''''
     # print(len(text))
+    st = time.time()
     obj.extract_block(path, resume_text=text)
-    print('Take time : ', time.time() - sttime)
+    print('Take time : ', time.time() - st)
